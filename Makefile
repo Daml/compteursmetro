@@ -10,5 +10,4 @@ data/%.csv: data/%.raw
 	php parse.php < $< > $@
 
 combined.csv: $(SOURCES)
-	php combine.php $? > $@
-
+	php combine.php $^ > $@
