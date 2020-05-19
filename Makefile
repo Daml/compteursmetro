@@ -1,5 +1,4 @@
-SOURCES=data/100000565_101000565.csv \
-	data/100000565_102000565.csv
+SOURCES=$(addsuffix .csv, $(addprefix data/, $(shell grep '_' sources.dat | cut -d ' ' -f 1)))
 
 all: combined.csv
 
