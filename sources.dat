@@ -1,8 +1,13 @@
+# Liste des compteurs et "pratiques"
+#
+# L'ordre est basé sur l'ID interne écocompteur, à conserver
+#
+
 100000562_101000562 # DRAC1 / Digue passerelle / in?
 100000562_102000562 # DRAC1 / Digue passerelle / out?
 
 100000563_101000563 # EYB1 / in?
-102000563_102000563 # EYB1 / out?
+100000563_102000563 # EYB1 / out?
 
 100000564_101000564 # GRE1 / in?
 100000564_102000564 # GRE1 / out?
