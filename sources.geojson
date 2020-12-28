@@ -1,0 +1,270 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.69991,
+                    45.16868
+                ]
+            },
+            "properties": {
+                "id": 100000562,
+                "start": "2008-01-03",
+                "ref": "ECO08011668",
+                "name": "(Seyssins) Digue - Passerelle Drac1",
+                "pratiques": [
+                    101000562,
+                    102000562
+                ],
+                "in": [101000562],
+                "out": [102000562]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.74428,
+                    45.15022
+                ]
+            },
+            "properties": {
+                "id": 100000563,
+                "name": "(Eybens) Rue P. Mendes France - eyb1",
+                "pratiques": [
+                    101000563,
+                    102000563
+                ],
+                "in": [101000563],
+                "out": [102000563]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.74438,
+                    45.17451
+                ]
+            },
+            "properties": {
+                "id": 100000564,
+                "name": "(Grenoble) Av. des jeux olympiques - gre1",
+                "pratiques": [
+                    101000564,
+                    102000564
+                ],
+                "in": [101000564],
+                "out": [102000564]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.719582916808773,
+                    45.18023339088083
+                ]
+            },
+            "properties": {
+                "id": 100000565,
+                "name": "(Grenoble) Rue L\u00e9o Lagrange - Gre2",
+                "pratiques": [
+                    101000565,
+                    102000565
+                ],
+                "in": [101000565],
+                "out": [102000565]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75087,
+                    45.18908
+                ]
+            },
+            "properties": {
+                "id": 100000566,
+                "name": "(Saint Martin d'Heres) Digue - SMH1",
+                "pratiques": [
+                    101000566,
+                    102000566
+                ],
+                "in": [101000566],
+                "out": [102000566]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75618,
+                    45.19964
+                ]
+            },
+            "properties": {
+                "id": 100047091,
+                "notes": "121047091=101047091+103047091 (IN ?) / 136047091=102047091+104047091 (OUT ?)",
+                "name": "(Meylan) Boulevard de la Chantourne",
+                "pratiques": [
+                    101047091,
+                    102047091,
+                    103047091,
+                    104047091
+                ],
+                "in": [101047091, 103047091],
+                "out": [102047091, 104047091]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.78279,
+                    45.19041
+                ]
+            },
+            "properties": {
+                "id": 100049059,
+                "name": "(Gi\u00e8res) Digue - D\u00e9pot de tramway",
+                "pratiques": [
+                    101049059,
+                    102049059,
+                    103049059,
+                    104049059
+                ],
+                "in": [101049059,103049059],
+                "out": [102049059,104049059]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.72924,
+                    45.18572
+                ]
+            },
+            "properties": {
+                "id": 100051043,
+                "name": "(Grenoble) Boulevard Mar\u00e9chal Lyautey",
+                "pratiques": [
+                    101051043,
+                    102051043,
+                    103051043,
+                    104051043
+                ],
+                "in": [101051043,103051043],
+                "out": [102051043,104051043]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.698,
+                    45.15477
+                ]
+            },
+            "properties": {
+                "id": 100051044,
+                "name": "(Echirolles) Digue - Comboire V64",
+                "pratiques": [
+                    101051044,
+                    102051044,
+                    103051044,
+                    104051044
+                ],
+                "in": [101051044,103051044],
+                "out": [102051044,104051044]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.724048,
+                    45.18778
+                ]
+            },
+            "properties": {
+                "id": 100055803,
+                "start": "2019-12-02",
+                "notes": "IN=OUEST vers Berriat",
+                "name": "(Grenoble) Cours Lafontaine \/ Afficheur",
+                "pratiques": [
+                    101055803,
+                    102055803,
+                    103055803,
+                    104055803
+                ],
+                "in": [101055803,103055803],
+                "out": [102055803,104055803]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.70008,
+                    45.19463
+                ]
+            },
+            "properties": {
+                "id": 100057387,
+                "start": "2019-12-18",
+                "serial": "X2H19121613",
+                "notes": "IN=SUD",
+                "name": "(Fontaine) Digue - Quai du Drac",
+                "pratiques": [
+                    101057387,
+                    102057387,
+                    103057387,
+                    104057387
+                ],
+                "in": [101057387,103057387],
+                "out": [102057387,104057387]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.74114,
+                    45.18879
+                ]
+            },
+            "properties": {
+                "id": 100057814,
+                "start": "2020-05-15",
+                "serial": "X2H20011908",
+                "notes": "IN=OUEST coté mairie / 2x 4boucles : Vers meylan et SMH",
+                "name": "(Grenoble) Stade des Alpes",
+                "pratiques": [
+                    101057814,
+                    102057814,
+                    103057814,
+                    104057814
+                ],
+                "in": [101057814,103057814],
+                "out": [102057814,104057814]
+            }
+        }
+    ]
+}
