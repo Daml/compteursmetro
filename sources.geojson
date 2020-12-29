@@ -258,6 +258,31 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    5.71421,
+                    45.19402
+                ]
+            },
+            "properties": {
+                "id": 100057388,
+                "start": "2020-09-17",
+                "serial": "X2H19121615",
+                "notes": "IN=NORD vers Arago",
+                "name": "(Grenoble) Gare",
+                "pratiques": [
+                    101057388,
+                    102057388,
+                    103057388,
+                    104057388
+                ],
+                "in": [101057388,103057388],
+                "out": [102057388,104057388]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     5.74114,
                     45.18879
                 ]
