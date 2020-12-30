@@ -59,7 +59,7 @@ def query(idPdc, first, end, flow):
     if resp.status != 200:
         raise Exception('Incorrect HTTP Response (%d)' % resp.status)
 
-    return json.loads(resp.read())
+    return json.loads(str(resp.read(), 'utf-8'))
 
 def update(idPdc, flows = [], inDef = [], outDef = []):
     print("process !", idPdc)
