@@ -104,8 +104,8 @@ def update(idPdc, flows = [], inDef = [], outDef = []):
             data[key]['sources'][flow] = int(item[1])
 
     dailyFile.close()
-    dailyFile = open("series/%s/daily.csv" % idPdc, "a")
-    output = csv.writer(dailyFile, delimiter=",")
+    dailyFile = open("series/%s/daily.csv" % idPdc, "a", newline='')
+    output = csv.writer(dailyFile, delimiter=",", lineterminator="\n")
 
     for key in data:
         if len(data[key]['sources']) != len(flows):
