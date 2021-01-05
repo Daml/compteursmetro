@@ -23,6 +23,7 @@ import sys
 import json
 import time
 import http.client
+import collections
 from urllib.parse import urlencode
 from datetime import datetime,date,timedelta
 
@@ -84,7 +85,7 @@ def update(idPdc, flows = [], inDef = [], outDef = []):
     end = datetime.today() - delta
 
     # Prepare data structure
-    data = {}
+    data = collections.OrderedDict()
     step = first
     while (step < end):
         iso = step.isocalendar()
